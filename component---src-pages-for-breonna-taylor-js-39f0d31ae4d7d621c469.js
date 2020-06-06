@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{"6oDW":function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var o=t("q1tI"),r=t.n(o);function u(){return r.a.createElement("div",null,"Hello world!")}}}]);
+//# sourceMappingURL=component---src-pages-for-breonna-taylor-js-39f0d31ae4d7d621c469.js.map

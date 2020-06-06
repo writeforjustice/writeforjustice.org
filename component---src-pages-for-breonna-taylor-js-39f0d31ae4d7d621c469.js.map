@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/for/breonna-taylor.js"],"names":["Home"],"mappings":"6FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-for-breonna-taylor-js-39f0d31ae4d7d621c469.js","sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n  return <div>Hello world!</div>\n}\n"],"sourceRoot":""}
