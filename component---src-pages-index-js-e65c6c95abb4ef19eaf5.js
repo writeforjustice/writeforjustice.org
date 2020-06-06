@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,t,o){"use strict";function e(){return"undefined"!=typeof window&&(window.location.href="https://blacklivesmatters.carrd.co/"),null}o.r(t),o.d(t,"default",(function(){return e}))}}]);
-//# sourceMappingURL=component---src-pages-index-js-e65c6c95abb4ef19eaf5.js.map
